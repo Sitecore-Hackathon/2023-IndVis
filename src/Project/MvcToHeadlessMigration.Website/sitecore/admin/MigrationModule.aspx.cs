@@ -19,6 +19,7 @@ namespace MvcToHeadlessMigration.Website.sitecore.admin
         protected void btnClick_Click1(object sender, EventArgs e)
         {
             lblMessage.Text = ConnectionStringTextBox.Text;
+            var rootItem = Sitecore.Data.Database.GetDatabase("migration").GetRootItem();
             // Do your custom code  
         }
     }
