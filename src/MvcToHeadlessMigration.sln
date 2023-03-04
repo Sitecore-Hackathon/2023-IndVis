@@ -11,6 +11,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project", "Project", "{6A56
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcToHeadlessMigration.Website", "Project\MvcToHeadlessMigration.Website\MvcToHeadlessMigration.Website.csproj", "{AB60A782-C037-48E1-829D-0340F00F1E43}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeedToMigrationSite.Website", "Project\NeedToMigrationSite.Website\NeedToMigrationSite.Website.csproj", "{88A6C692-C79B-4578-951B-B5E7AD81770F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,12 +23,17 @@ Global
 		{AB60A782-C037-48E1-829D-0340F00F1E43}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB60A782-C037-48E1-829D-0340F00F1E43}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB60A782-C037-48E1-829D-0340F00F1E43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88A6C692-C79B-4578-951B-B5E7AD81770F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88A6C692-C79B-4578-951B-B5E7AD81770F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88A6C692-C79B-4578-951B-B5E7AD81770F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88A6C692-C79B-4578-951B-B5E7AD81770F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{AB60A782-C037-48E1-829D-0340F00F1E43} = {6A56164F-0C6C-46EF-8F6B-26BB49A5F392}
+		{88A6C692-C79B-4578-951B-B5E7AD81770F} = {6A56164F-0C6C-46EF-8F6B-26BB49A5F392}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A6044C79-E620-4964-9394-CD14B49F82A8}
