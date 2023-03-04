@@ -9,17 +9,18 @@
 You can find a very good reference to Github flavoured markdown reference in [this cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). If you want something a bit more WYSIWYG for editing then could use [StackEdit](https://stackedit.io/app) which provides a more user friendly interface for generating the Markdown code. Those of you who are [VS Code fans](https://code.visualstudio.com/docs/languages/markdown#_markdown-preview) can edit/preview directly in that interface too.
 
 ## Team name
-⟹ Write the name of your Hackathon team here
+⟹ IndVis
 
 ## Category
-⟹ Write the name of the selected category
+⟹ Best Migration Module to move from XP (traditional) to Headless CMS
 
 ## Description
 ⟹ Write a clear description of your hackathon entry.  
 
-  - Module Purpose
+  - Migration module will get the Sitecore Items, Templates, Rendering etc from XP Sitecore instance and create the same into the Sitecore Headless CMS.
   - What problem was solved (if any)
-    - How does this module solve it
+    - This module will take the parameter of Sitecore XP instance and on Submit button it will create the structure in Headless CMS JSS format.
+<img width="572" alt="image" src="https://user-images.githubusercontent.com/58130664/222908368-6a0ea5cb-4e55-4ef7-98bf-65938e521748.png">
 
 _You can alternately paste a [link here](#docs) to a document within this repo containing the description._
 
